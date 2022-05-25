@@ -3,7 +3,7 @@ import * as C from './App.styles'
 const App = () => {
   return (
     <C.Container>
-    scnsdkcnsdkcnslv
+      <C.Area>...</C.Area>
     </C.Container>
 );
 }
